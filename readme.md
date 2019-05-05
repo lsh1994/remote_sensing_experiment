@@ -2,7 +2,7 @@
 
 百度点石第二届高分杯：  
 代码：https://github.com/lsh1994/tianchiorgame/tree/master/dianshi_gaofenbei_1901  
-博客baseline：https://blog.csdn.net/nima1994/article/details/86685024
+博客baseline：https://blog.csdn.net/nima1994/article/details/86685024    
 博客最终，一等奖：https://blog.csdn.net/nima1994/article/details/89849773
 
 # gf2_cnn4321
