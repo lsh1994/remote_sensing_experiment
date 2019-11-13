@@ -11,12 +11,12 @@
 博客：https://blog.csdn.net/nima1994/article/details/86488280
 
 # Erosion_seg
-遥感影像冲沟（侵蚀沟）语义分割，仅完成了数据集制作（第三方终止）。  
-其他语义分割实验代码：https://github.com/lsh1994/keras-segmentation  
+遥感影像冲沟（侵蚀沟）语义分割，仅完成了数据集制作，据本人目视数据集质量不高。    
+其他语义分割实验代码：https://github.com/lsh1994/keras-segmentation   
 
 # tianchi_agriculture_2019
-2019年县域农业大脑AI挑战赛：
-由于精力有限，事务繁忙；本赛题做的比较粗糙。  
+2019年县域农业大脑AI挑战赛：  
+由于精力有限，事务繁忙；本赛题做的比较粗糙。   
 代码：https://github.com/lsh1994/tianchiorgame/tree/master/tianchi_agriculture_2019 。
 
 # 其他
